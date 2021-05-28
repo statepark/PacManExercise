@@ -11,7 +11,7 @@ This project is a result of an assignment provided by MIT XPro. This assignment 
 Click on this link to view the project. 
 <a href=https://statepark.github.io/pac-man>Pac Man Exercise</a>
 
-#Roadmap for Future Improvements
+# Roadmap for Future Improvements
 To elaborate on this project I would like to animate pacman to enable the user to deposit food for pacman upon a mouse click. Next step would be to deposit food that is at random either garbage or food. If pacman eats garbage pacman turns a deeper shade of green. If pacman eats good food pacman returns to yellow. If pacman eats too much garbage, then pacman turns grey and rotates becomes motionless. Game over. 
 
 # Support
